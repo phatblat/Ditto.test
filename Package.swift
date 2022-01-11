@@ -11,7 +11,7 @@ let package = Package(
     ],
     dependencies: [
         .package(path: "../Ditto.objc"),
-        .package(url: "https://github.com/PSPDFKit/PSPDFKit-SP", from: "11.1.1")
+//        .package(url: "https://github.com/PSPDFKit/PSPDFKit-SP", from: "11.1.1")
     ],
     targets: [
         .target(
